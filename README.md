@@ -1,6 +1,8 @@
 # LoadVVeRi-901-Trial
 This repo contains the data manager of the trial version of the video vehicle re-identification dataset, VVeRi-901.
 
+Note that this is not the official implementation.
+
 ## Dataset
 To access the dataset, please refer to https://gas.graviti.cn/dataset/hello-dataset/VVeRI901.
 
