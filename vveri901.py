@@ -15,7 +15,8 @@ import numpy as np
 
 class VVeRi901(object):
     """
-    MARS
+    VVeRi-901
+    Edit by Fu Hui: fuhuinova@gmail.com
 
     Reference:
     Jianan Zhao et al. PhD Learning: Learning with Pompeiu-hausdorff Distances for Video-based Vehicle Re-Identification. CVPR 2021.
