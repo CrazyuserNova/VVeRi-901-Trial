@@ -1,4 +1,4 @@
-# LoadVVeRi-901-Trial
+# VVeRi-901-Trial data manager
 This repo contains the data manager of the trial version of the video vehicle re-identification dataset, VVeRi-901.
 
 Note that this is not the official implementation.
